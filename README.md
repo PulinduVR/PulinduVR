@@ -17,7 +17,6 @@
 
 ### 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PulinduVR&theme=radical)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PulinduVR&theme=dracula&column=4&margin-w=15&margin-h=15)
 
 
 🌟 **Check out my projects and feel free to contribute!**
