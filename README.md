@@ -15,4 +15,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/1F8kJ1856z/)  
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/pulinduvilhan?igsh=MXhnNzQ1ZDN0MzJpcA==)  
 
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PulinduVR&theme=radical)
+
+
 🌟 **Check out my projects and feel free to contribute!**
