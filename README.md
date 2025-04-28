@@ -4,7 +4,7 @@
 📍 **University of Moratuwa - CSE**  
 
 ### 🔧 Technologies & Skills:
-- 💻 Full-stack Development (React, Node.js, Electron.js)
+- 💻 Full-stack Development (React.js, Express.js, Node.js, Electron.js)
 - 📊 Data Analysis & AI (Python, Machine Learning)
 - 📱 Mobile App Development (Flutter)
 
