@@ -19,5 +19,9 @@
 ### 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PulinduVR&theme=radical)
 
+### 📊 GitHub Stats:
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raleesap&theme=github_dark)
+
+
 
 🌟 **Check out my projects and feel free to contribute!**
