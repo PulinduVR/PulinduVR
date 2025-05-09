@@ -20,7 +20,7 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PulinduVR&theme=radical)
 
 ### 📊 GitHub Stats:
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raleesap&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PulinduVR&theme=github_dark)
 
 
 
