@@ -21,6 +21,7 @@
 
 ### 📊 GitHub Stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PulinduVR&theme=monokai)
+![GitHub Grade](https://github-readme-stats.vercel.app/api?username=PulinduVR&show_icons=true&count_private=true&hide=issues&theme=radical)
 
 
 
