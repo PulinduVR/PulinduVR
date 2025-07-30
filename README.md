@@ -6,7 +6,7 @@
 ## 🛠 &nbsp;Tech Stack
 
 #### Languages
-![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=FFFF00)
+![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=FFFF00&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=FFFF00&color=grey)
 ![Java](https://img.shields.io/badge/java-007396?logo=java&logoColor=white&color=FF8000)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
