@@ -62,7 +62,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white&style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white&style=for-the-badge)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?logo=babel&logoColor=black&style=for-the-badge)
-![Expo](https://img.shields.io/badge/expo-1C1E24?logo=expo&logoColor=#D04A37&style=for-the-badge)
+![Expo](https://img.shields.io/badge/expo-1C1E24?logo=expo&style=for-the-badge&logoColor=#D04A37)
 ![JWT](https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens&color=222222&style=for-the-badge)
 
 ### 📫 Let's Connect:
