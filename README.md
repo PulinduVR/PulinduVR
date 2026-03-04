@@ -74,7 +74,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=flat&logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/pulinduvilhan?igsh=MXhnNzQ1ZDN0MzJpcA==)  
 
 ### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PulinduVR&theme=radical)
+![GitHub Trophies](https://github-profile-repo.vercel.app/?username=PulinduVR&theme=radical)
 
 ### 📊 GitHub Stats:
 ![GitHub Grade](https://github-readme-stats.vercel.app/api?username=PulinduVR&show_icons=true&count_private=true&hide=issues&theme=radical)
