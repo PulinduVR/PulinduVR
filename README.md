@@ -66,6 +66,8 @@
 ![Expo](https://img.shields.io/badge/expo-1C1E24?logo=expo&style=for-the-badge&logoColor=#D04A37)
 ![JWT](https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens&color=222222&style=for-the-badge)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PulinduVR&layout=compact&theme=dark)](https://github.com/PulinduVR)
+
 ### 📫 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/pulindu-ranaweera-121b77268)  
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github&style=for-the-badge)](https://github.com/PulinduVR)  
