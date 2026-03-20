@@ -3,6 +3,10 @@
 🚀 **Tech Enthusiast | Developer | Aviation Enthusiast**  
 📍 **University of Moratuwa - CSE**  
 
+ <a href="https://github-readme-streak-stats.herokuapp.com/?user=PulinduVR&theme=github_dark">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PulinduVR&theme=github_dark" alt="GitHub Streak (Dark)" />
+  </a>
+
 ## 🛠 &nbsp;Tech Stack
 
 #### Languages
