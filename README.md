@@ -1,5 +1,4 @@
 # Hi there, I'm Pulindu Ranaweera! 👋
-![Profile Views](https://komarev.com/ghpvc/?username=PulinduVR&color=brightgreen)
 
 🚀 **Tech Enthusiast | Developer | Aviation Enthusiast**  
 📍 **University of Moratuwa - CSE**  
